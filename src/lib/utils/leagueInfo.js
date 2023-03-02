@@ -8,7 +8,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Hope you like it</p>
-  <p>Korby</p>;
+  <p>Korby</p>
+  ';
 /*   STEP 3   */
 /*
 3 managers as an example. Uncomment (remove the //) before each line to make it live code
